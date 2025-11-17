@@ -1,4 +1,4 @@
-# Brain Tumor Multi-Class Classification using PyTorch
+# Brain Tumor Multi-Class Classification 
 
 This project is a deep learning solution for classifying brain MRI images into four categories: **Glioma Tumor**, **Meningioma Tumor**, **Pituitary Tumor**, and **Healthy (No Tumor)**.
 
